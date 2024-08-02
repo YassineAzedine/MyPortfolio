@@ -6,27 +6,27 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
-    name: "Thankful Thoughts",
+    name: "Electro Store ",
     description:
-      "ThankfulThoughts is a web app that generates an appreciative sentence of something or someone you are thankful for.",
-    image: "/thankfulthoughts.png",
-    github: "https://github.com/hqasmei/thankful-thoughts",
-    link: "https://thankfulthoughts.io/",
+      "ElectroStore is an e-commerce platform for electronic products. The backend is built with NestJS and deployed on Render, while the frontend is created with Next.js and hosted on Vercel. Access the platform at ElectroStore.",
+    image: "/ElcroStore.jpeg",
+    github: "https://github.com/YassineAzedine/Electro-Store.git",
+    link: "https://front-electro-store-kl77.vercel.app/",
   },
   {
-    name: "PlatoIO",
-    description: "PlatoIO is a to do list app that built using the PERN stack.",
-    image: "/platoio.png",
-    github: "https://github.com/hqasmei/platoio",
-    link: "https://platoio.com/register",
+    name: "Job Linker",
+    description: "Job Linker is an innovative job board application designed to connect job seekers with employers seamlessly. Built with Next.js and Mongoose, Job Linker offers a modern, user-friendly interface for browsing job listings, applying for positions, and managing job applications. Job seekers can create detailed profiles, receive personalized job recomme",
+    image: "/jobLinker.jpeg",
+    github: "https://github.com/YassineAzedine/JobLinker.git",
+    link: "https://job-linker-delta.vercel.app/",
   },
   {
-    name: "Kator Family Photos",
+    name: "Social Networking Platform",
     description:
-      "Kator Family Photos is a photos and video digitization service in the LA area.",
-    image: "/familyphotos.png",
-    github: "https://github.com/hqasmei/katorfamilyphotos",
-    link: "https://katorfamilyphotos.com/",
+      "dynamic social networking platform built with Express, Node.js, React.js, and MongoDB. It enables users to connect, communicate, and share content with friends and communities. The platform features profile creation, real-time messaging, and activity feeds, allowing users to interact and stay updated with their network. With React.js for a respons",
+    image: "/socialNetwrking.jpeg",
+    github: "https://github.com/YassineAzedine/Social-Networking-Platform.git",
+    link: "https://frontend-social-network-rho.vercel.app/",
   },
 ]
 
